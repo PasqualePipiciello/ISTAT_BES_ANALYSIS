@@ -18,15 +18,16 @@ Make sure you have Python and the necessary libraries installed:
 
 ```bash
 pip install pandas numpy scikit-learn plotly dash
-
+```
 
 ### Running the Dashboard
 1. ** Clone the repository**:
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+```
 
 2. ** Run the dashboard**:
 ```bash
 python app.py
-
+```
